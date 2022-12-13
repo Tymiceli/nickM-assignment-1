@@ -1,0 +1,19 @@
+.section-1 {
+    background-color: #4915f8;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+}
+
+.headline-1 {
+
+    font-size: 25px;
+}
+
+
+.headline-2{
+
+    font-size: 40px
+}
+
